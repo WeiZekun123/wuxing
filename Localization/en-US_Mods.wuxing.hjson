@@ -1,0 +1,45 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	wuxing: {
+		DisplayName: wuxing
+		Tooltip: ""
+	}
+
+	Earth: {
+		DisplayName: Earth
+		Tooltip: ""
+	}
+
+	Fire: {
+		DisplayName: Fire
+		Tooltip: ""
+	}
+
+	Metel: {
+		DisplayName: Metel
+		Tooltip: ""
+	}
+
+	Water: {
+		DisplayName: Water
+		Tooltip: ""
+	}
+
+	Wood: {
+		DisplayName: Wood
+		Tooltip: ""
+	}
+
+	Magic: {
+		DisplayName: Magic
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	MyBuff: {
+		DisplayName: My Buff
+		Description: Mods.wuxing.Buffs.MyBuff.Description
+	}
+}

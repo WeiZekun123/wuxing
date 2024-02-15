@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGO3sbD+rqBK0YUrZgu/XCgTNzhr8xynTCTBzej9RC3tZGsJw29UjqjgpNCI+39biEy4c/DIIQHQcQdrYd2W0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wei\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\wuxing\\wuxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wei\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
