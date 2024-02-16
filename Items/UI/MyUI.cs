@@ -25,10 +25,16 @@ namespace wuxing.Items.UI
             Append(panel);
 
 
+            //添加标题
             UIText title = new UIText("wuxing");
             title.HAlign = 0.5f;
             title.Top.Set(15, 0);
             panel.Append(title);
+            
+            
+            UIImageButton button = new UIImageButton(ModContent.GetTexture("Terraria/UI/ButtonPlay"));
+            
+
 
         }
 
